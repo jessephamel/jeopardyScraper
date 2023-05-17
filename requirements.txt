@@ -1,0 +1,3 @@
+tinydb
+bs4
+requests
